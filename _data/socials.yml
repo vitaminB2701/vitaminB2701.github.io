@@ -2,7 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  logo: /assets/img/briefcase-solid-full.svg # can be png, svg, jpg
   title: Work Email
   url: mailto:long.nguyen@ntu.edu.sg
 email: nghoanglong2701@gmail.com # your email address
