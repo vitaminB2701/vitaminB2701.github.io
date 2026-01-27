@@ -1,9 +1,8 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-letterboxd_id:
-  value: your_letterboxd_username # the actual username or ID value
-  logo: fa-brands fa-letterboxd # override with custom icon class
+work_url: 
+  url: long.nguyen@ntu.edu.sg
 email: nghoanglong2701@gmail.com # your email address
 # orcid_id: 0000-0003-3635-6087
 scholar_userid: Z6aVtJgAAAAJ # your Google Scholar ID
