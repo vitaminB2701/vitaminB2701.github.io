@@ -458,13 +458,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-work',
-        title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("long.nguyen@ntu.edu.sg", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -479,18 +472,18 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0003-3635-6087", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=Z6aVtJgAAAAJ", "_blank");
+        },
+      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Hoang-Long-Nguyen-4/", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/vitaminB2701", "_blank");
+          window.open("https://www.researchgate.net/profile/Hoang-Long-Nguyen-4/", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -500,11 +493,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/longnguyen270197", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=Z6aVtJgAAAAJ", "_blank");
+          window.open("https://github.com/vitaminB2701", "_blank");
         },
       },{
         id: 'social-cv',
