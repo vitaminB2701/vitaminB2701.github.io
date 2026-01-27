@@ -462,7 +462,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("long.nguyen@ntu.edu.sg", "_blank");
         },
       },{
         id: 'social-email',
