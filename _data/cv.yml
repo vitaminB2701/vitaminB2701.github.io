@@ -1,25 +1,25 @@
 cv:
   name: Hoang Long Nguyen
-  label: Scientist
-  email: einstein@example.com
+  label: PhD
+  email: long.nguyen@ntu.edu.sg
   location: Singapore/Vietnam
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: ""
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
+    # - network: X
+    #   username: AlbertEinstein
+    # - network: GitHub
+    #   username: example
     - network: LinkedIn
-      username: example
+      username: longnguyen270197
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  # address:
+  #   street: 2712 Broadway St
+  #   city: San Francisco
+  #   region: California
+  #   postalCode: CA 94115
+  #   countryCode: US
 
   sections:
     Education:
