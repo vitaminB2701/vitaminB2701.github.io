@@ -458,11 +458,11 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-letterboxd_id',
-        title: 'Letterboxd_id',
+        id: 'social-work',
+        title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("{"url"=>"long.nguyen@ntu.edu.sg"}", "_blank");
         },
       },{
         id: 'social-email',
