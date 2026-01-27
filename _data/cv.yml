@@ -3,14 +3,14 @@ cv:
   label: PhD
   email: long.nguyen@ntu.edu.sg
   location: Singapore/Vietnam
-  image: ""
-  summary: ""
+  # image: ""
+  # summary: ""
 
   social_networks:
-    # - network: X
-    #   username: AlbertEinstein
-    # - network: GitHub
-    #   username: example
+    # - network: ORCID
+    #   username: 
+    # - network: ScopusID
+    #   username: 
     - network: LinkedIn
       username: longnguyen270197
 
@@ -23,18 +23,18 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Nanyang Technological University 
+        location: Singapore
+        url: https://www.ntu.edu.sg/
+        area: Physical Chemistry
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2019
+        end_date: 2024
+        # score: ""
+        # courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Double Degree with the University of Groningen, the Netherlands.
+          - Thesis title':' ....
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
