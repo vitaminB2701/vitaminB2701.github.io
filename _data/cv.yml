@@ -1,6 +1,6 @@
 cv:
   name: Hoang Long Nguyen
-  label: Scientist
+  # label: Scientist
   email: nghoanglong2701@gmail.com
   location: Singapore/Vietnam
   image: ""
@@ -30,10 +30,10 @@ cv:
         studyType: PhD
         start_date: 2019
         end_date: 2024
-        highlights: 
-        - Double Degree with the University of Groningen, the Netherlands
-        Supervisors: Howe-Siang Tan, Jasper Knoester, Thomas la Cour Jansen
-        Thesis title: Excitonic Energy Transfer Processes in Photosynthetic Systems studied with Two-dimensional Electronic Spectroscopy
+        # highlights: 
+        # - Double Degree with the University of Groningen, the Netherlands
+        # Supervisors: Howe-Siang Tan, Jasper Knoester, Thomas la Cour Jansen
+        # Thesis title: Excitonic Energy Transfer Processes in Photosynthetic Systems studied with Two-dimensional Electronic Spectroscopy
 
       - institution: Nanyang Technological University
         location: Singapore
