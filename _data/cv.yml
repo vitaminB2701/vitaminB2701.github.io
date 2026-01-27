@@ -32,9 +32,10 @@ cv:
         end_date: 2024
         score: ""
         courses: ""
-        highlights: Double Degree with the University of Groningen, the Netherlands
-        Supervisors: Howe-Siang Tan, Jasper Knoester, Thomas la Cour Jansen
-        Thesis title: Excitonic Energy Transfer Processes in Photosynthetic Systems studied with Two-dimensional Electronic Spectroscopy
+        highlights:
+          - Double Degree with the University of Groningen, the Netherlands
+          - Supervisors: Howe-Siang Tan, Jasper Knoester, Thomas la Cour Jansen
+          - Thesis title: Excitonic Energy Transfer Processes in Photosynthetic Systems studied with Two-dimensional Electronic Spectroscopy
 
       - institution: Nanyang Technological University
         location: Singapore
@@ -42,14 +43,16 @@ cv:
         studyType: Bachelor
         start_date: 2015
         end_date: 2019
+        highlights: ""
 
     Experience:
       - company: Nanyang Technological University
         position: Research Fellow
         location: Singapore
         start_date: 2024
-        end_date: present
+        end_date: ""
         summary: Operating ultrafast laser systems, conducting optical spectroscopy experiments, and preparing publications
+        highlights: ""
 
     # Volunteer:
     #   - company: People's Climate March
