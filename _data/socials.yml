@@ -2,7 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 custom_social: 
-  value: long.nguyen@ntu.edu.sg
+  url: long.nguyen@ntu.edu.sg
   logo: https://www.logo.wine/a/logo/Nanyang_Technological_University/Nanyang_Technological_University-Logo.wine.svg
   title: Work Email
 email: nghoanglong2701@gmail.com # your email address
