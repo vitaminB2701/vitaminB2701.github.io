@@ -23,8 +23,8 @@ cv:
 
   sections:
     Education:
-      - institution: Nanyang Technological University & University of Groningen
-        location: Singapore & the Netherlands
+      - institution: Nanyang Technological University, University of Groningen
+        location: Singapore, the Netherlands
         url: https://www.ntu.edu.sg/
         area: Physical Chemistry
         studyType: PhD
