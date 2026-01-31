@@ -283,7 +283,7 @@ layout: default
         {% endif %}
 
         <!-- Awards -->
-        {% if site.data.resume.awards.size > 0 %}
+        {{% if site.data.resume.awards.size > 0 %}
           <a class="anchor" id="awards"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Awards</h3>
@@ -292,7 +292,7 @@ layout: default
               {% include cv/awards.liquid %}
             </div>
           </div>
-        {% endif %}
+        {% endif %}}
 
         <!-- Publications -->
         {% if site.data.resume.publications.size > 0 %}
