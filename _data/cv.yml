@@ -23,8 +23,8 @@ cv:
 
   sections:
     Education:
-      - institution: Nanyang Technological University, University of Groningen
-        location: Singapore, the Netherlands
+      - institution: Nanyang Technological University 
+        location: Singapore & the Netherlands
         url: https://www.ntu.edu.sg/
         area: Physical Chemistry
         studyType: PhD
@@ -33,7 +33,7 @@ cv:
         # score: ""
         # courses: "Theory of Relativity"
         highlights:
-          # - Double Degree with the University of Groningen, the Netherlands.
+          - Double Degree with the University of Groningen, the Netherlands.
           - 'Thesis title: Excitonic Energy Transfer Processes in Photosynthetic Systems studied with Two-dimensional Electronic Spectroscopy'
 
       - institution: Nanyang Technological University 
@@ -47,10 +47,10 @@ cv:
           - Minor in Nanotechnology.
 
     Experience:
-      - company: Nanyang Technological University 
-        position: Research Fellow
-        location: Singapore
-        start_date: 2024
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
         end_date: 1955
         summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
