@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 subtitle: Research Fellow. School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, Singapore
