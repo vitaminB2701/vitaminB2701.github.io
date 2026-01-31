@@ -23,10 +23,8 @@ cv:
 
   sections:
     Education:
-      - institution: Nanyang Technological University 
-        location: 
-         - Singapore
-         - The Netherlands
+      - institution: Nanyang Technological University & University of Groningen
+        location: Singapore
         url: https://www.ntu.edu.sg/
         area: Physical Chemistry
         studyType: PhD
@@ -35,8 +33,8 @@ cv:
         # score: ""
         # courses: "Theory of Relativity"
         highlights:
-          - Double Degree with the University of Groningen, the Netherlands.
-          - 'Thesis title: Excitonic Energy Transfer Processes in Photosynthetic Systems studied with Two-dimensional Electronic Spectroscopy'
+          - Double Degree
+          - 'Thesis title: Excitonic Energy Transfer Processes in Photosynthetic Systems studied with Two-dimensional Electronic Spectroscopy.'
 
       - institution: Nanyang Technological University 
         location: Singapore
@@ -49,42 +47,24 @@ cv:
           - Minor in Nanotechnology.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Nanyang Technological University
+        position: Research Fellow
+        location: Singapore
+        start_date: 2024
+        end_date: 2026
+        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Nanyang Technological University
+        position: Project Officer
+        location: Singapore
+        start_date: 2019
+        end_date: 2019
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
     Volunteer:
       - company: People's Climate March
