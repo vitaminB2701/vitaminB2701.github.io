@@ -131,11 +131,16 @@ cv:
       - name: Vietnamese
         summary: "Native speaker"
 
-    # Interests:
-    #   - name: Physics
-    #     icon: fa-solid fa-tag
-    #     keywords: "Optics, Quantum Mechanics"
-
+    Interests:
+      - name: Scientific
+        icon: fa-solid fa-tag
+        keywords: "Ultrafast laser spectroscopy, optical experimental design, photonics, chemical laboratory, computer modelling"
+      - name: Programming & Data
+        icon: fa-solid fa-tag
+        keywords: "MATLAB, Python, C, LabVIEW, Linux, Git, machine learning, data analysis, data visualization"
+      - name: Tools & Softwares
+        icon: fa-solid fa-tag
+        keywords: "Microsoft Office, LaTeX, Inkscape"
     # Certificates:
     #   - name: Machine Learning
     #     date: 2018-01-01
