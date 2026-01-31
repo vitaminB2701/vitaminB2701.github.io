@@ -43,33 +43,25 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  // #light-toggle-system {
-  //   padding-left: 10px;
-  //   padding-top: 12px;
-  //   display: block;
-  // }
-
-  // #light-toggle-dark {
-  //   display: none;
-  // }
-
-  // #light-toggle-light {
-  //   display: none;
-  // }
-
-  .fa-sun {
+  #light-toggle-system {
     display: none;
   }
-  .fa-moon {
+
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
     padding-left: 10px;
     padding-top: 12px;
     display: block;
   }
 
-  .repo-img-light {
+  .only-light {
     display: block;
   }
-  .repo-img-dark {
+
+  .only-dark {
     display: none;
   }
 
@@ -122,56 +114,48 @@ html[data-theme="dark"] {
   --global-danger-block-text: #ffb9b9;
   --global-danger-block-title: #ffe0e0;
 
-  .fa-sun {
-    padding-left: 10px;
-    padding-top: 12px;
-    display: block;
-  }
-  .fa-moon {
+  .only-light {
     display: none;
   }
 
-  .repo-img-light {
-    display: none;
-  }
-  .repo-img-dark {
+  .only-dark {
     display: block;
   }
 }
 
-// html[data-theme-setting="dark"] {
-//   #light-toggle-system {
-//     display: none;
-//   }
+html[data-theme-setting="dark"] {
+  #light-toggle-system {
+    display: none;
+  }
 
-//   #light-toggle-dark {
-//     padding-left: 10px;
-//     padding-top: 12px;
-//     display: block;
-//   }
+  #light-toggle-dark {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
 
-//   #light-toggle-light {
-//     display: none;
-//   }
+  #light-toggle-light {
+    display: none;
+  }
 
-//   #back-to-top {
-//     color: var(--global-back-to-top-text-color);
-//     background: var(--global-back-to-top-bg-color);
-//   }
-// }
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+  }
+}
 
-// html[data-theme-setting="light"] {
-//   #light-toggle-system {
-//     display: none;
-//   }
+html[data-theme-setting="light"] {
+  #light-toggle-system {
+    display: none;
+  }
 
-//   #light-toggle-dark {
-//     display: none;
-//   }
+  #light-toggle-dark {
+    display: none;
+  }
 
-//   #light-toggle-light {
-//     padding-left: 10px;
-//     padding-top: 12px;
-//     display: block;
-//   }
-// }
+  #light-toggle-light {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
+}
