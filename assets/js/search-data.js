@@ -391,11 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-checkout-science-advances-for-our-latest-publication-on-inter-subunit-energy-transfer-in-photosystem-ii-observed-using-two-dimensional-electronic-spectroscopy",
-          title: 'Checkout Science Advances for our latest publication on inter-subunit energy transfer in photosystem...',
+            },},{id: "news-publication-on-science-advances-checkout-science-advances-for-our-latest-publication-on-inter-subunit-energy-transfer-in-photosystem-ii-observed-using-two-dimensional-electronic-spectroscopy",
+          title: 'Publication on Science Advances Checkout Science Advances for our latest publication on inter-subunit...',
           description: "",
-          section: "News",},{id: "news-i-m-happy-to-share-my-recently-published-research-paper-in-this-work-we-use-polarization-resolved-two-dimensional-electronic-spectroscopy-p-2des-to-uncover-how-energy-transfer-occurs-between-light-harvesting-antenna-subunits-these-are-essential-components-in-plant-photosynthesis-responsible-for-capturing-and-transporting-light-energy-resolving-the-energy-transfer-processes-among-them-especially-under-physiological-conditions-is-a-challenging-task-due-to-heavy-spectral-overlap-our-results-suggest-that-energy-transfer-rates-is-connected-to-how-the-proteins-are-arranged-and-offer-a-new-method-to-study-energy-transfer-in-large-multichromophoric-systems-if-you-are-interested-please-take-a-look-here-contact-me-if-you-need-the-full-text",
-          title: 'I’m happy to share my recently published research paper. In this work, we...',
+          section: "News",},{id: "news-publication-on-jpc-letters-i-m-happy-to-share-my-recently-published-research-paper-in-this-work-we-use-polarization-resolved-two-dimensional-electronic-spectroscopy-p-2des-to-uncover-how-energy-transfer-occurs-between-light-harvesting-antenna-subunits-these-are-essential-components-in-plant-photosynthesis-responsible-for-capturing-and-transporting-light-energy-resolving-the-energy-transfer-processes-among-them-especially-under-physiological-conditions-is-a-challenging-task-due-to-heavy-spectral-overlap-our-results-suggest-that-energy-transfer-rates-is-connected-to-how-the-proteins-are-arranged-and-offer-a-new-method-to-study-energy-transfer-in-large-multichromophoric-systems-if-you-are-interested-please-take-a-look-here-contact-me-if-you-need-the-full-text",
+          title: 'Publication on JPC Letters I’m happy to share my recently published research paper....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
