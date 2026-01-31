@@ -24,7 +24,9 @@ cv:
   sections:
     Education:
       - institution: Nanyang Technological University 
-        location: Singapore & the Netherlands
+        location: 
+         - Singapore
+         - The Netherlands
         url: https://www.ntu.edu.sg/
         area: Physical Chemistry
         studyType: PhD
