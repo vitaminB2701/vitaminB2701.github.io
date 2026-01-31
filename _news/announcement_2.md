@@ -6,6 +6,10 @@ inline: true
 related_posts: false
 ---
 
+Publication on Science Advances
+
+---
+
 Checkout Science Advances for our <a href="https://www.science.org/doi/10.1126/sciadv.adh0911">latest publication</a> on inter-subunit energy transfer in photosystem II observed using two-dimensional electronic spectroscopy.
 
 <!-- ---
