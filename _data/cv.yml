@@ -1,6 +1,6 @@
 cv:
   name: Hoang Long Nguyen
-  label: PhD
+  # label: PhD
   email: long.nguyen@ntu.edu.sg
   location: Singapore/Vietnam
   # image: ""
@@ -34,7 +34,7 @@ cv:
         # courses: "Theory of Relativity"
         highlights:
           - Double Degree with the University of Groningen, the Netherlands.
-          - Thesis title':' ....
+          - 'Thesis title: Excitonic Energy Transfer Processes in Photosynthetic Systems studied with Two-dimensional Electronic Spectroscopy'
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
