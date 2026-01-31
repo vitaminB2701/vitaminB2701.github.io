@@ -122,7 +122,7 @@ layout: default
 
         <!-- RenderCV Sections - Merge Experience and Volunteer -->
         {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
-        {% assign combined_experience = cv.sections.Experience | concat: cv.sections.Volunteer %}
+        {% assign combined_experience = cv.sections.Experience %}
         {% if combined_experience.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
@@ -250,7 +250,7 @@ layout: default
         {% endif %}
 
         <!-- Summary -->
-        {% if site.data.resume.summary and site.data.resume.basics.summary %}
+        {% if site.data.resume.basics.summary and site.data.resume.basics.summary %}
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Professional Summary</h3>
             <p>{{ site.data.resume.basics.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
@@ -258,12 +258,13 @@ layout: default
         {% endif %}
 
         <!-- JSONResume Sections - Merge work and volunteer into Experience -->
+        {% assign combined_experience = site.data.resume.work %}
         {% if site.data.resume.work and site.data.resume.work.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Experience</h3>
             <div>
-              {% assign entries = site.data.resume.work %}
+              {% assign entries = combined_experience %}
               {% include cv/experience.liquid %}
             </div>
           </div>
