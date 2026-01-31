@@ -1,11 +1,13 @@
 ---
 layout: post
-date: 2026-01-27 00:00:00-0000
+date: 2026-01-02 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Testing the website.
+I’m happy to share my recently published research paper. In this work, we use polarization-resolved two-dimensional electronic spectroscopy (p-2DES) to uncover how energy transfer occurs between light-harvesting antenna subunits. These are essential components in plant photosynthesis, responsible for capturing and transporting light energy. Resolving the energy transfer processes among them, especially under physiological conditions, is a challenging task due to heavy spectral overlap. Our results suggest that energy transfer rates is connected to how the proteins are arranged and offer a new method to study energy transfer in large multichromophoric systems. 
+
+If you are interested, please take a look <a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02240">here</a>. Contact me if you need the full text.
 
 <!-- ---
 layout: post
