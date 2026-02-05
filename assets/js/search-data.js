@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-news",
-          title: "News",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
@@ -404,7 +397,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-we-got-featured-on-ntu-blog",
-          title: 'We got featured on NTU Blog.',
+          title: 'We got featured on NTU Blog',
           description: "",
           section: "News",},{id: "news-publication-on-jpc-letters",
           title: 'Publication on JPC Letters',
