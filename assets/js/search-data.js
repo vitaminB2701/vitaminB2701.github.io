@@ -398,10 +398,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-publication-on-science-advances-checkout-science-advances-for-our-latest-publication-on-inter-subunit-energy-transfer-in-photosystem-ii-observed-using-two-dimensional-electronic-spectroscopy",
-          title: 'Publication on Science Advances Checkout Science Advances for our latest publication on inter-subunit...',
+            },},{id: "news-publication-on-science-advances",
+          title: 'Publication on Science Advances',
           description: "",
-          section: "News",},{id: "news-we-got-featured-on-ntu-blog",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-we-got-featured-on-ntu-blog",
           title: 'We got featured on NTU Blog.',
           description: "",
           section: "News",},{id: "news-publication-on-jpc-letters",
