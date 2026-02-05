@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-We got featured on <a href="https://blogs.ntu.edu.sg/science/2024/03/28/understanding-and-mapping-the-first-steps-in-photosynthesis/">NTU Blog</a>.
+We got featured on <a href="https://blogs.ntu.edu.sg/science/2024/03/28/understanding-and-mapping-the-first-steps-in-photosynthesis/">NTU Blog</a>
 
 <!-- ---
 layout: post
