@@ -2,7 +2,7 @@
 layout: post
 title: Publication on Science Advances
 date: 2024-02-23 00:00:00-0000
-inline: true
+inline: false
 related_posts: false
 ---
 
