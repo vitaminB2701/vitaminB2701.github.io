@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
@@ -397,10 +404,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-got-featured-on-ntu-blog",
           title: 'We got featured on NTU Blog.',
           description: "",
-          section: "News",},{id: "news-publication-on-jpc-letters-i-m-happy-to-share-my-recently-published-research-paper-in-this-work-we-use-polarization-resolved-two-dimensional-electronic-spectroscopy-p-2des-to-uncover-how-energy-transfer-occurs-between-light-harvesting-antenna-subunits-these-are-essential-components-in-plant-photosynthesis-responsible-for-capturing-and-transporting-light-energy-resolving-the-energy-transfer-processes-among-them-especially-under-physiological-conditions-is-a-challenging-task-due-to-heavy-spectral-overlap-our-results-suggest-that-energy-transfer-rates-is-connected-to-how-the-proteins-are-arranged-and-offer-a-new-method-to-study-energy-transfer-in-large-multichromophoric-systems-if-you-are-interested-please-take-a-look-here-contact-me-if-you-need-the-full-text",
-          title: 'Publication on JPC Letters I’m happy to share my recently published research paper....',
+          section: "News",},{id: "news-publication-on-jpc-letters",
+          title: 'Publication on JPC Letters',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
