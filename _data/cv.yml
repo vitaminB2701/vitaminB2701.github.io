@@ -6,13 +6,13 @@ cv:
   # image: ""
   # summary: ""
 
-  social_networks:
+  # social_networks:
     # - network: ORCID
     #   username: 
     # - network: ScopusID
     #   username: 
-    - network: LinkedIn
-      username: longnguyen270197
+    # - network: LinkedIn
+    #   username: longnguyen270197
 
   # address:
   #   street: 2712 Broadway St
@@ -38,7 +38,7 @@ cv:
       - institution: Nanyang Technological University 
         location: Singapore
         area: Applied Physics
-        studyType: Bachelor
+        studyType: BSc
         start_date: 2015
         end_date: 2019
         highlights:
@@ -133,7 +133,7 @@ cv:
     Skills:
       - name: Scientific
         icon: fa-solid fa-tag
-        keywords: "Ultrafast laser spectroscopy, optical experimental design, photonics, chemical laboratory, computer modelling"
+        keywords: "Ultrafast laser spectroscopy, optical experiment design, computational modelling"
       - name: Programming & Data
         icon: fa-solid fa-tag
         keywords: "MATLAB, Python, C, LabVIEW, Linux, Git, machine learning, data analysis, data visualization"
