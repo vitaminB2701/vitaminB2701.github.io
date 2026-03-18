@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-18'
 papers:
   Z6aVtJgAAAAJ:2osOgNQ5qMEC:
     citations: 18
@@ -34,7 +34,7 @@ papers:
     title: Directly Measuring the Connectivity between Isoenergetic Light-Harvesting Antennas in Plant Photosystem II at Physiological Temperature
     year: '2026'
   Z6aVtJgAAAAJ:YsMSGLbcyi4C:
-    citations: 14
+    citations: 15
     title: "An efficient time-domain implementation of the multichromophoric F\xF6rster resonant energy transfer method"
     year: '2023'
   Z6aVtJgAAAAJ:_FxGoFyzp5QC:
@@ -50,7 +50,7 @@ papers:
     title: Measuring the ultrafast spectral diffusion and vibronic coupling dynamics in CdSe colloidal quantum wells using two-dimensional electronic spectroscopy
     year: '2023'
   Z6aVtJgAAAAJ:hqOjcs7Dif8C:
-    citations: 10
+    citations: 11
     title: Coarse-grained approach to simulate signatures of excitation energy transfer in two-dimensional electronic spectroscopy of large molecular systems
     year: '2024'
   Z6aVtJgAAAAJ:qjMakFHDy7sC:
@@ -58,7 +58,7 @@ papers:
     title: Two-dimensional electronic spectroscopy of the Qx to Qy relaxation of chlorophylls a in photosystem II core complex
     year: '2022'
   Z6aVtJgAAAAJ:roLk4NBRz8UC:
-    citations: 7
+    citations: 8
     title: Application of the time-domain multichromophoric fluorescence resonant energy transfer method in the NISE programme
     year: '2024'
   Z6aVtJgAAAAJ:u-x6o8ySG0sC:
