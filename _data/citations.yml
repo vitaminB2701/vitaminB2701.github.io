@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-04-22'
 papers:
   Z6aVtJgAAAAJ:2osOgNQ5qMEC:
-    citations: 18
+    citations: 19
     title: Revealing the excitation energy transfer network of Light-Harvesting Complex II by a phenomenological analysis of two-dimensional electronic spectra at 77 K
     year: '2019'
   Z6aVtJgAAAAJ:9yKSN-GCB0IC:
@@ -38,7 +38,7 @@ papers:
     title: "An efficient time-domain implementation of the multichromophoric F\xF6rster resonant energy transfer method"
     year: '2023'
   Z6aVtJgAAAAJ:_FxGoFyzp5QC:
-    citations: 19
+    citations: 21
     title: Inter-subunit energy transfer processes in a minimal plant photosystem II supercomplex
     year: '2024'
   Z6aVtJgAAAAJ:d1gkVwhDpl0C:
@@ -50,7 +50,7 @@ papers:
     title: Measuring the ultrafast spectral diffusion and vibronic coupling dynamics in CdSe colloidal quantum wells using two-dimensional electronic spectroscopy
     year: '2023'
   Z6aVtJgAAAAJ:hqOjcs7Dif8C:
-    citations: 11
+    citations: 12
     title: Coarse-grained approach to simulate signatures of excitation energy transfer in two-dimensional electronic spectroscopy of large molecular systems
     year: '2024'
   Z6aVtJgAAAAJ:qjMakFHDy7sC:
