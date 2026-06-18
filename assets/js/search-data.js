@@ -404,6 +404,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-publication-on-chemphyschem-my-personal-favorite",
+          title: 'Publication on ChemPhysChem (my personal favorite)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
