@@ -1,13 +1,13 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-07'
 papers:
   Z6aVtJgAAAAJ:2osOgNQ5qMEC:
-    citations: 20
+    citations: 19
     title: Revealing the excitation energy transfer network of Light-Harvesting Complex II by a phenomenological analysis of two-dimensional electronic spectra at 77 K
     year: '2019'
   Z6aVtJgAAAAJ:9yKSN-GCB0IC:
     citations: 4
-    title: Electron Transfer Quenching of Rhodamine 6G by N-Methylpyrrole Is an Unproductive Process in the Photocatalytic Heterobiaryl Cross-Coupling Reaction
+    title: "Electron Transfer Quenching of Rhodamine 6G by N\u2011Methylpyrrole Is an Unproductive Process in the Photocatalytic Heterobiaryl Cross-Coupling Reaction"
     year: '2021'
   Z6aVtJgAAAAJ:IjCSPb-OGe4C:
     citations: 27
@@ -15,7 +15,7 @@ papers:
     year: '2019'
   Z6aVtJgAAAAJ:QIV2ME_5wuYC:
     citations: 0
-    title: An Implementation of General Polarization-Resolved Two-Dimensional Electronic Spectroscopy
+    title: "An Implementation of General Polarization\u2010Resolved Two\u2010Dimensional Electronic Spectroscopy"
     year: '2026'
   Z6aVtJgAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
@@ -32,10 +32,10 @@ papers:
   Z6aVtJgAAAAJ:Y0pCki6q_DkC:
     citations: 10
     title: Observing the fluctuation dynamics of dative bonds using two-dimensional electronic spectroscopy
-    year: '2020'
+    year: '2021'
   Z6aVtJgAAAAJ:YOwf2qJgpHMC:
     citations: 3
-    title: Directly Measuring the Connectivity between Isoenergetic Light-Harvesting Antennas in Plant Photosystem II at Physiological Temperature
+    title: Directly measuring the connectivity between isoenergetic light-harvesting antennas in plant Photosystem II at physiological temperature
     year: '2026'
   Z6aVtJgAAAAJ:YsMSGLbcyi4C:
     citations: 18
