@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-21'
 papers:
   Z6aVtJgAAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -30,7 +30,7 @@ papers:
     title: Excitation energy transfer and equilibration process in LHCII studied by multidimensional electronic spectroscopy
     year: '2019'
   Z6aVtJgAAAAJ:Y0pCki6q_DkC:
-    citations: 10
+    citations: 11
     title: Observing the fluctuation dynamics of dative bonds using two-dimensional electronic spectroscopy
     year: '2021'
   Z6aVtJgAAAAJ:YOwf2qJgpHMC:
@@ -38,7 +38,7 @@ papers:
     title: Directly measuring the connectivity between isoenergetic light-harvesting antennas in plant Photosystem II at physiological temperature
     year: '2026'
   Z6aVtJgAAAAJ:YsMSGLbcyi4C:
-    citations: 18
+    citations: 19
     title: "An efficient time-domain implementation of the multichromophoric F\xF6rster resonant energy transfer method"
     year: '2023'
   Z6aVtJgAAAAJ:_FxGoFyzp5QC:
@@ -50,11 +50,11 @@ papers:
     title: "Ultrafast excitation energy transfer dynamics in the LHCII\u2013CP29\u2013CP24 subdomain of plant photosystem II"
     year: '2022'
   Z6aVtJgAAAAJ:eQOLeE2rZwMC:
-    citations: 15
+    citations: 16
     title: Measuring the ultrafast spectral diffusion and vibronic coupling dynamics in CdSe colloidal quantum wells using two-dimensional electronic spectroscopy
     year: '2023'
   Z6aVtJgAAAAJ:hqOjcs7Dif8C:
-    citations: 16
+    citations: 17
     title: Coarse-grained approach to simulate signatures of excitation energy transfer in two-dimensional electronic spectroscopy of large molecular systems
     year: '2024'
   Z6aVtJgAAAAJ:qjMakFHDy7sC:
@@ -64,7 +64,7 @@ papers:
   Z6aVtJgAAAAJ:roLk4NBRz8UC:
     citations: 10
     title: Application of the time-domain multichromophoric fluorescence resonant energy transfer method in the NISE programme
-    year: '2024'
+    year: '2025'
   Z6aVtJgAAAAJ:u-x6o8ySG0sC:
     citations: 11
     title: An Exciton Dynamics Model of Bryopsis corticulans Light-Harvesting Complex II
